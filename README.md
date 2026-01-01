@@ -8,10 +8,18 @@ This repository hosts the implementation of the **Leap Beaver** search algorithm
 - **Complexity:** Analysis reveals a highly "rugged" fitness landscape with an isolated peak.
 
 ## 📊 Visualizations
-Below is the fitness landscape analysis of the champion machine, confirming the "Twin" anomaly and the sensitivity of the configuration space:
+
+### 1. Fitness Landscape & Topology
+The analysis confirms the "Twin" anomaly and the extreme sensitivity of the configuration space (Rugged Landscape):
 
 ![Fitness Landscape](results/MU517''.png)
-*(Figure generated using the Python verification suite)*
+*(Figure: Frequency distribution of mutants (left) and the isolated peak of the champion machine (right))*
+
+### 2. Space-Time Dynamics
+The execution history of the champion machine ($\Sigma=517$) demonstrates complex, non-repetitive behavior before halting. The diagram below visualizes the tape evolution over time (Time flows downwards):
+
+![Space Diagram](results/LeapBeaver_SpaceTime.png)
+*(Figure: Space-Time diagram showing symbol patterns. The distinct colors represent different symbols written on the tape.)*
 
 ## 🚀 Project Structure
 - `cpp/`: Core search engine and simulation logic (C++17).
