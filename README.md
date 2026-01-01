@@ -13,7 +13,7 @@ This repository hosts the implementation of the **Leap Beaver** search algorithm
 The analysis confirms the "Twin" anomaly and the extreme sensitivity of the configuration space (Rugged Landscape):
 
 ![Fitness Landscape](results/MU517''.png)
-*(Figure: Frequency distribution of mutants (left) and the isolated peak of the champion machine (right))*
+*(Figure: The Mutation Landscape of Leap Beaver (517)*
 
 ### 2. Space-Time Dynamics
 We compare the space-time dynamics of the Champion ($\Sigma=517$) against the Chaos machine ($\Sigma=280$). Both exhibit intricate, non-repetitive patterns before halting, as visualized below.
