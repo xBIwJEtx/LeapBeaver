@@ -16,7 +16,7 @@ The analysis confirms the "Twin" anomaly and the extreme sensitivity of the conf
 *(Figure: Frequency distribution of mutants (left) and the isolated peak of the champion machine (right))*
 
 ### 2. Space-Time Dynamics
-The execution history of the champion machine ($\Sigma=517$) demonstrates complex, non-repetitive behavior before halting. The diagram below visualizes the tape evolution over time (Time flows downwards):
+We compare the space-time dynamics of the Champion ($\Sigma=517$) against the Chaos machine ($\Sigma=280$). Both exhibit intricate, non-repetitive patterns before halting, as visualized below.
 
 ![Space Diagram](results/LeapBeaver_SpaceTime.png)
 *(Figure: Space-Time diagram showing symbol patterns. The distinct colors represent different symbols written on the tape.)*
