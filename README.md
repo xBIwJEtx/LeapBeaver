@@ -12,13 +12,13 @@ This repository hosts the implementation of the **Leap Beaver** search algorithm
 ### 1. Fitness Landscape & Topology
 The analysis confirms the "Twin" anomaly and the extreme sensitivity of the configuration space (Rugged Landscape):
 
-![Fitness Landscape](results/MU517''.png)
+![Fitness Landscape](2-state-results/MU517''.png)
 *(Figure: The Mutation Landscape of Leap Beaver (517)*
 
 ### 2. Space-Time Dynamics
 We compare the space-time dynamics of the Champion ($\Sigma=517$) against the Chaos machine ($\Sigma=280$). Both exhibit intricate, non-repetitive patterns before halting, as visualized below.
 
-![Space Diagram](results/LeapBeaver_SpaceTime.png)
+![Space Diagram](2-state-results/LeapBeaver_SpaceTime.png)
 *(Figure: Space-Time diagram showing symbol patterns. The distinct colors represent different symbols written on the tape.)*
 
 ## 🚀 Project Structure
