@@ -19,7 +19,7 @@ We track the highest scores ($\Sigma$) discovered using our nonlocal jump archit
 
 ### 1. 3-State Record ($\Sigma=2,149$)
 The latest discovery shows a complex, expanding oscillation pattern, characteristic of higher-state nonlocal machines.
-![3-state Trajectory](3-state-results/222.png)
+![3-state Trajectory](3-state-results/2149Analysis.png)
 *(Figure: Trajectory of the 3-state Champion showing emergent nonlocal complexity.)*
 
 
