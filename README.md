@@ -18,9 +18,10 @@ We track the highest scores ($\Sigma$) discovered using our nonlocal jump archit
 ## 📊 Visualizations
 
 ### 1. 3-State Record ($\Sigma=2,149$)
-The latest discovery shows a complex, expanding oscillation pattern, characteristic of higher-state nonlocal machines.
-![3-state Trajectory](3-state-results/2149Analysis.png)
-*(Figure: Trajectory of the 3-state Champion showing emergent nonlocal complexity.)*
+The latest discovery demonstrates the scaling potential of nonlocal motion. The visualization below captures the **Head Trajectory** and **Non-zero Symbol Distribution**, revealing an "Expanding Oscillator" behavior. This pattern shows how the machine systematically structures the tape through nonlocal jumps before reaching the halt state.
+
+![3-state Analysis](3-state-results/2149Analysis.png)
+*(Figure: Multi-panel analysis of the 2,149-score machine, showing the space-time trajectory and the frequency of symbols written on the tape.)*
 
 
 
