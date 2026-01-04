@@ -8,8 +8,8 @@ We track the highest scores ($\Sigma$) discovered using our nonlocal jump archit
 
 | States | Symbols | Score ($\Sigma$) | Steps | Transition Table (The "DNA") | Folder |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2 | 5 | **517** | 66,263 | `2LB 4LB 1LC 3RC 4RA | 4RA 4RB 2LB 1LB 4LB` | [`/2-state`](./2-state-results) |
-| **3** | **5** | **2,149** | **386,484** | `2LB 4LB 1LC 3RC 4RA | 4RA 4RB 2LB 1LB 4LB | 2RB 2RH 4RC 2RB 3RB` | [`/3-state`](./3-state-results) |
+| 2 | 5 | **517** | 66,263 | `2LB 4LB 1LC 3RC 4RA \| 4RA 4RB 2LB 1LB 4LB` | [`/2-state`](./2-state-results) |
+| **3** | **5** | **2,149** | **386,484** | `2LB 4LB 1LC 3RC 4RA \| 4RA 4RB 2LB 1LB 4LB \| 2RB 2RH 4RC 2RB 3RB` | [`/3-state`](./3-state-results) |
 
 > **Note:** Transition format: `[Write][Move][NextState]`. For Leap Beaver, `Move` represents a jump distance equal to the symbol value. `H` denotes the Halt state.
 
