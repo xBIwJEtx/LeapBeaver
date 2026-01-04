@@ -14,8 +14,8 @@ We have documented the evolution of these discoveries, ranked by their Sigma sco
 
 ### 🥈 2. The Resilient Sweeper ($\Sigma = 844$)
 * **Score:** 844
-* **Steps:** ~199,500
-* **DNA:** `[INSERT 844 DNA STRING HERE]`  *(Please update this)*
+* **Steps:** 199025
+* **DNA:** `2RB 1LA 4LA 3LA 2RC | 1LA 1RB 3RB 2LB 2RB | 4RB 2LA 2LC 1LB 3LH*
 * **Behavior:** *Sawtooth Constructor* — Unlike the chaotic expansion of the champion, this machine exhibits a highly regular "comb-like" trajectory. It runs for nearly 200,000 steps, utilizing a dense interplay between Symbol 1 and Symbol 3 to systematically widen its computation window.
 
 ### 🥉 3. The High-Performance Milestone ($\Sigma = 750$)
